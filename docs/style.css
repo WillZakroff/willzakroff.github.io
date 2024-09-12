@@ -7,12 +7,14 @@ body{
     left: 15%;
     right: 15%;
     width: 70%;
-    height: 35%;
+    height: 350%;
 }
 .menu{
+}
+.menu_text{
     font-size: 150%;
 }
 .site_header{
     position: relative;
-    top: 45%;
+    top: 145%;
 }
