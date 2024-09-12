@@ -2,5 +2,14 @@ body{
     background-color: rgb(224, 174, 0);
 }
 .nav-bar{
-    border:10px, solid, rgb(131, 71, 14);
+    background-color: rgb(131, 71, 14);
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    right: 25%;
+    width: 50%;
+    height: 10%;
+}
+.menu{
+    font-size: 20%
 }
