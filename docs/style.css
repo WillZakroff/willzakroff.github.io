@@ -4,16 +4,14 @@ body{
 .nav-bar{
     background-color: rgb(131, 71, 14);
     position: relative;
-    margin: 0px 15% 10px 15%;
-    height: 35px
+    margin: 2vh 15vw 10vh 15vw;
+    height: auto;
 }
-.menu{
-}
-.menu_text{
-    font-size: 200%;
-    margin: 5px;
-    height: 150px;
-    background-color: rgb(131, 71, 14);
+.nav-bar a{
+    font-size: 2em;
+    padding: .5rem;
+    position:relative;
+    display: inline-block;
 }
 .site_header{
     position: relative;
