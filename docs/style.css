@@ -2,5 +2,5 @@ body{
     background-color: rgb(224, 174, 0);
 }
 .nav-bar{
-    background-color: rgb(131, 71, 14);
+    border:10px, solid, rgb(131, 71, 14);
 }
