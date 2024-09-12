@@ -12,7 +12,7 @@ body{
 .menu{
     font-size: 150%;
 }
-.div{
+.site_header{
     position: relative;
-    top: 45%
+    top: 45%;
 }
