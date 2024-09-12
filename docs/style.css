@@ -1,19 +1,25 @@
 body{
-    background-color: rgb(224, 174, 0);
+    background-color:rgb(245, 225, 125);
+    text-decoration: none;
+    color: black;
 }
 .nav-bar{
-    background-color: rgb(131, 71, 14);
     position: relative;
     margin: 2vh 15vw 10vh 15vw;
     height: auto;
+    border: 2px ridge rgb(0, 0, 0);
+    border-radius: 8px;
 }
 .nav-bar a{
     font-size: 2em;
-    padding: .5rem;
+    padding: .75rem;
+    border: 0;
+    border-radius: 10px;
     position:relative;
     display: inline-block;
+    text-decoration: none;
+    color: black;
 }
 .site_header{
     position: relative;
-    top: 145%;
 }
