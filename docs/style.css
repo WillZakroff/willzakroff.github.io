@@ -24,4 +24,6 @@ body{
 }
 .site_header{
     position: relative;
+    text-align: center;
+    font-size: 4em;
 }
