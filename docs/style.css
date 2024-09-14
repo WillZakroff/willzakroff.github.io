@@ -24,6 +24,10 @@ body{
     text-decoration: none;
     color: black;
 }
+.nav-bar a:hover {
+    background-color: rgb(176,137,2);
+    border-radius: 8px;
+  }
 .site_header{
     position: relative;
     font-size: 4em;
