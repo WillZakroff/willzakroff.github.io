@@ -2,6 +2,7 @@ body{
     background-color:rgb(245, 225, 125);
     text-decoration: none;
     color: black;
+    margin-left:15vw;
     font-family: sans-serif;
 }
 .nav-bar{
@@ -25,6 +26,6 @@ body{
 }
 .site_header{
     position: relative;
-    text-align: center;
+    margin-left:15vw;
     font-size: 4em;
 }
