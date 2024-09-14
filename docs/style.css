@@ -8,7 +8,7 @@ body{
 .nav-bar{
     position: relative;
     display: inline-flex;
-    margin: 2vh 25vw 3vh 25vw;
+    margin: 2vh 10vw 3vh 25vw;
     height: auto;
     border: 2px ridge rgb(176,137,2);
     border-radius: 8px;
@@ -26,6 +26,5 @@ body{
 }
 .site_header{
     position: relative;
-    margin-left:15vw;
     font-size: 4em;
 }
