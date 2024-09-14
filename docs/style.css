@@ -27,6 +27,7 @@ body{
 .nav-bar a:hover {
     background-color: rgb(176,137,2);
     border-radius: 8px;
+    border: 2px ridge rgb(176,137,2);
   }
 .site_header{
     position: relative;
