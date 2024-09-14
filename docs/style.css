@@ -7,7 +7,7 @@ body{
 .nav-bar{
     position: relative;
     display: inline-flex;
-    margin: 2vh 25vw 10vh 25vw;
+    margin: 2vh 25vw 5vh 25vw;
     height: auto;
     border: 2px ridge rgb(0, 0, 0);
     border-radius: 8px;
