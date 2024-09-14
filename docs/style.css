@@ -9,7 +9,7 @@ body{
     display: inline-flex;
     margin: 2vh 25vw 3vh 25vw;
     height: auto;
-    border: 2px ridge rgb(0, 0, 0);
+    border: 2px ridge rgb(176,137,2);
     border-radius: 8px;
 }
 .nav-bar a{
