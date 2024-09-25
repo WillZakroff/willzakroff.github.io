@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(245, 225, 125);
+    background-color:rgb(255, 218, 34);
     text-decoration: none;
     color: black;
     font-family: sans-serif;
@@ -10,7 +10,7 @@ body{
     display: inline-flex;
     margin: 2vh 25vw 3vh 25vw;
     height: auto;
-    border: 2px ridge rgb(176,137,2);
+    border: 2px ridge rgb(255, 255, 255);
     border-radius: 8px;
 }
 .nav-bar a{
@@ -25,7 +25,7 @@ body{
     color: black;
 }
 .nav-bar a:hover {
-    background-color: rgb(176,137,2);
+    background-color: rgb(255, 255, 255);
     border-radius: 8px;
   }
 .site_header{
@@ -35,7 +35,8 @@ body{
 }
 .information{
     position:relative;
-    font-size: 1.5em;
+    font-size: 1.25em;
     left: 20.5vw;
     width: 34.5vw;
+    text-justify: auto;
 }
