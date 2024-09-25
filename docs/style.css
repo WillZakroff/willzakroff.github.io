@@ -29,11 +29,12 @@ body{
   }
 .site_header{
     position: relative;
-    font-size: 4em;
-    left: 15vw;
+    font-size: 3em;
+    left: 20vw;
 }
 .information{
     position:relative;
-    font-size: 2.5em;
-    left: 15vw;
+    font-size: 1.5em;
+    left: 20vw;
+    margin-right: 40vw;
 }
