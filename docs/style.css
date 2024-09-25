@@ -35,7 +35,6 @@ body{
 .information{
     position:relative;
     font-size: 1.5em;
-    left: 22.5vw;
-    margin-right: 45vw;
-    width: auto;
+    left: 20.5vw;
+    width: 19.5vw;
 }
