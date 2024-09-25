@@ -36,5 +36,6 @@ body{
     position:relative;
     font-size: 1.5em;
     left: 22.5vw;
-    right: 45vw;
+    margin-right: 45vw;
+    width: auto;
 }
