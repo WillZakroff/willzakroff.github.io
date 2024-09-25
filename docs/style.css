@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(255, 218, 34);
+    background-color:rgb(255, 228, 56);
     text-decoration: none;
     color: black;
     font-family: sans-serif;
@@ -10,7 +10,7 @@ body{
     display: inline-flex;
     margin: 2vh 25vw 3vh 25vw;
     height: auto;
-    border: 2px ridge rgb(255, 255, 255);
+    border: 2px ridge rgb(215, 215, 215);
     border-radius: 8px;
 }
 .nav-bar a{
@@ -25,7 +25,7 @@ body{
     color: black;
 }
 .nav-bar a:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(215, 215, 215);
     border-radius: 8px;
   }
 .site_header{
