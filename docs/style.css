@@ -50,14 +50,20 @@ body{
 }
 .experience_location{
     font-size: 1.5em;
-    left: 20.5vw
+    left: 20.5vw;
+    position: relative;
+    text-align: center;
 }
 .experience_time{
     font-size: 1em;
     font-weight: bold;
-    left: 23.5vw;
+    left: 20.5vw;
+    position: relative;
+    text-align:center;
 }
 .experience_title{
     font-size: 1.25em;
-    left: 21.75vw;
+    left: 20.5vw;
+    position: relative;
+    text-align: center;
 }
