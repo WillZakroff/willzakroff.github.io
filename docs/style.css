@@ -10,11 +10,11 @@ body{
     display: inline-flex;
     margin: 2vh 25vw 3vh 25vw;
     height: auto;
-    border: 2px ridge rgb(215, 215, 215);
+    border: 3.5px ridge rgb(215, 215, 215);
     border-radius: 8px;
 }
 .nav-bar a{
-    font-size: 2em;
+    font-size: 1.75em;
     padding: .75rem;
     width: auto;
     border: 0;
