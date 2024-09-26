@@ -49,8 +49,13 @@ body{
     font-weight: bold;
 }
 .left_list{
-    left: 20.5vw;
+    display: inline-block;
+    position: relative;
 }
 .right_list{
-    right:20.5vw
+    display: inline-block;
+    position: relative;
+}
+.lists{
+    left: 20.5vw;
 }
