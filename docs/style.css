@@ -42,28 +42,31 @@ body{
     width: 34.5vw;
     text-justify: auto;
 }
+.experience_information{
+    position:relative;
+    font-size: 1.25em;
+    width: 34.5vw;
+    text-align: center;
+}
 .experience_type{
     position:relative;
     font-size: 1.75em;
-    left: 20vw;
     font-weight: bold;
+    text-align: center;
 }
 .experience_location{
     font-size: 1.5em;
-    left: 20.5vw;
     position: relative;
     text-align: center;
 }
 .experience_time{
     font-size: 1em;
-    font-weight: bold;
-    left: 20.5vw;
+    font-weight: bold;;
     position: relative;
     text-align:center;
 }
 .experience_title{
     font-size: 1.25em;
-    left: 20.5vw;
     position: relative;
     text-align: center;
 }
