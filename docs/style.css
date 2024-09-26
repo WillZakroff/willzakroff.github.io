@@ -48,3 +48,9 @@ body{
     left: 20vw;
     font-weight: bold;
 }
+.left_list{
+    left: 20.5vw;
+}
+.right_list{
+    right:20.5vw
+}
