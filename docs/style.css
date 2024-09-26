@@ -48,16 +48,3 @@ body{
     left: 20vw;
     font-weight: bold;
 }
-.left_list{
-    display: inline;
-    position: relative;
-    font-size: 2.5em;
-}
-.right_list{
-    display: inline;
-    position: relative;
-    font-size: 2.5em;
-}
-.lists{
-    left: 20.5vw;
-}
