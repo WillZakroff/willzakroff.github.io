@@ -48,3 +48,16 @@ body{
     left: 20vw;
     font-weight: bold;
 }
+.experience_location{
+    font-size: 1.5em;
+    left: 20.5vw
+}
+.experience_time{
+    font-size: 1em;
+    font-weight: bold;
+    left: 23.5vw;
+}
+.experience_title{
+    font-size: 1.25em;
+    left: 21.75vw;
+}
