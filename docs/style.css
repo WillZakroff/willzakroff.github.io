@@ -5,6 +5,11 @@ body{
     font-family: sans-serif;
     overflow-x: hidden;
 }
+.top-bar{
+    background-color:rgb(0, 0, 0);
+    height: 10vh;
+    width: 100vw;
+}
 .nav-bar{
     position: relative;
     display: inline-flex;
